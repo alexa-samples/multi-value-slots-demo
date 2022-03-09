@@ -1,3 +1,6 @@
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 # Create Multi-Value Slots Demo
 
 ## Setting Up the Demo
